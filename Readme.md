@@ -47,7 +47,7 @@ Do not use this project in a way that would be considered illegal or unlawful.
 Contact/Collab :-
 Gmail : skasifahmed78@gmail.com
 LinkedIn : http://www.linkedin.com/in/skasifahmed
-Instagram : www.instagram.com/sk_asifahmed1 ; Username : sk_asifahmed1
+Instagram : www.instagram.com/skasif_ahmed1 ; Username : skasif_ahmed1
 
 
-Happy coding!
+Happy coding!"# Amazon-Clone" 
