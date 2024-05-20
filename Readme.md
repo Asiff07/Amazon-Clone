@@ -1,16 +1,10 @@
-Netflix Clone
-This project is a clone of the Netflix homepage, created using HTML, CSS, and a touch of JavaScript. It aims to replicate the look and feel of the original Netflix homepage, providing users with a familiar browsing experience.
+Amazon Clone
+This project is a clone of the Amazon homepage, created using HTML, CSS. It aims to replicate the look and feel of the original Amazon homepage, providing users with a familiar browsing experience.
 
 Introduction
-Welcome to the Netflix Homepage Clone project! 🎬
+Welcome to the Amazon Homepage Clone project! 🎬
 
-Have you ever wanted to recreate the magic of the Netflix browsing experience right in your browser? Well, you've come to the right place! As a fan of Netflix's user interface, I decided to create a clone of their homepage to hone my frontend development skills. This project allowed me to practice HTML structure, CSS styling, and a bit of JavaScript for interactivity.
-
-📸 Preview
-Screenshot 2024-03-22 190243Screenshot 2024-03-22 190331Screenshot 2024-03-22 190351Screenshot 2024-03-22 190427Screenshot 2024-03-22 190447Screenshot 2024-03-22 190503
-
-👉 Demo
-Check out the live demo of the Netflix Homepage Clone here Demo
+Have you ever wanted to recreate the magic of the Amazon browsing experience right in your browser? Well, you've come to the right place! As a fan of Netflix's user interface, I decided to create a clone of their homepage to hone my frontend development skills. This project allowed me to practice HTML structure, CSS styling, and a bit of JavaScript for interactivity.
 
 🔥 Contributing
 Contributions to this project are welcome! Before contributing, please take a moment to review the following guidelines:
